@@ -1,4 +1,4 @@
-# Hi, I'm Ishal Iftikhar 👋
+# Hi, I'm Ishal Iftikhar 
 
 ### Biomedical Engineering Technology Student | Python Developer | Web Scraping & Automation
 
@@ -6,7 +6,7 @@ I'm a Biomedical Engineering Technology student at The Islamia University of Bah
 
 Alongside my academic work, I'm building practical experience in Python, web scraping, data extraction, browser automation, and QA testing.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - Python
 - Requests
@@ -19,23 +19,23 @@ Alongside my academic work, I'm building practical experience in Python, web scr
 - HTML & CSS
 - CSV / Data Processing
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛒 OpenCart E-Commerce Web Scraper
+###  OpenCart E-Commerce Web Scraper
 Python-based scraper for extracting structured product and category data.
 
 **Tech:** Python • Requests • BeautifulSoup • Pandas
 
 [View Project](https://github.com/Ishaliftikhar/opencart-ecommerce-scraper)
 
-### 🧪 SauceDemo Playwright Automation
+###  SauceDemo Playwright Automation
 Browser automation and QA testing project using Playwright.
 
 **Tech:** Python • Playwright • CSS Selectors • Assertions
 
 [View Project](https://github.com/Ishaliftikhar/saucedemo-playwright-automation)
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Web scraping & data extraction
 - Browser automation
@@ -43,7 +43,7 @@ Browser automation and QA testing project using Playwright.
 - Python development
 - Biomedical engineering technology & research
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: Ishal iftikhar
 - Upwork: Ishal Iftikhar
