@@ -45,6 +45,6 @@ Browser automation and QA testing project using Playwright.
 
 ##  Connect With Me
 
-- LinkedIn: Ishal iftikhar
-- Upwork: Ishal Iftikhar
-- Fiverr: ishal_iftikhar
+- LinkedIn: Ishal iftikhar [view profile](https://www.linkedin.com/in/ishal-iftikhar-2610b0391/)
+- Upwork: Ishal I. [view profile](https://www.upwork.com/freelancers/~014c84cae45b97cd92?mp_source=share)
+- Fiverr: Ishal Iftikhar [view profile](https://www.fiverr.com/s/VrYxV9e)
